@@ -36,7 +36,7 @@ export default function Uses() {
         />
       </Head>
       <SimpleLayout
-        title="What I use on daily basis to get things done."
+        title="What I use on a daily basis to get things done."
         intro="Working remotely for the past 5 years, I've had the opportunity to try out a lot of different tools and workflows. Here's a list of the ones I use on a daily basis."
       >
         <div className="space-y-20">
