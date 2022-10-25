@@ -32,7 +32,7 @@ export default function Uses() {
         <title>Uses - dbp</title>
         <meta
           name="description"
-          content="What I use a on daily basis to get things done."
+          content="What I use on a daily basis to get things done."
         />
       </Head>
       <SimpleLayout
