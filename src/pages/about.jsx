@@ -44,7 +44,9 @@ export default function About() {
         <title>About - dbp</title>
         <meta
           name="description"
-          content="I’m Spencer Sharp. I live in New York City, where I design the future."
+          content="Hi, I'm Byron Pantoja. I spend my days coding and sipping on coffee, and
+        I love nothing more than helping small businesses thrive with great
+        design and tech."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -61,44 +63,30 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              {`Hi, I'm Byron Pantoja.`} <br />
-              {`I live in Davao City, where I work remotely, drink good coffee, and share my experiences and learnings with others.`}
+              {`Hi, I'm Byron Pantoja. I spend my days coding and sipping on coffee, and
+        I love nothing more than helping small businesses thrive with great
+        design and tech.`}
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                {`For over a decade, I've worked across the coffee value chain to
-                help promote Specialty Coffee in the Philippines with our family
-                business, `}
-                <a className="font-bold" href="https://coffeeforpeace.com">
-                  Coffee for Peace
-                </a>{' '}
-                {`(CFP). In partnership with `}
-                <a
-                  className="font-bold"
-                  href="https://peacebuilderscommunity.org"
-                >
-                  PeaceBuilders Community
-                </a>{' '}
-                {`(PBCI), CFP has worked on private and government-funded projects
-                around the Philippines as management consultants or project
-                managers. Our unique approach values people over profit and
-                culture over brand. Our track record of training communities to
-                be self-sustaining and self-motivated has won us recognition
-                nationally and globally.`}
+                {`My communication skills, both verbal and written, are strong, and
+              I love to share ideas clearly and effectively to others. As a
+              critical thinker, I can analyze and evaluate information to make
+              sound decisions. My problem-solving skills are excellent, and I
+              can come up with creative solutions to complex problems. I'm a
+              humble team player and can work collaboratively to support or lead
+              others to achieve common goals. My leadership abilities are
+              strong, and I prioritize empathy and active listening to better
+              understand and connect with others, which helps me to motivate and
+              inspire them to achieve success. I'm adaptable and able to handle
+              change and uncertainty with ease. I'm organized and can manage my
+              time and tasks efficiently. Being a lifelong learner, I'm always
+              seeking to improve my knowledge and skills. As a father of two
+              babies, I understand the importance of handling stress and
+              pressure with resilience and a positive attitude. Finally, I'm a
+              dependable and responsible individual who can be counted on to
+              deliver quality work on time.`}
               </p>
-              <p>
-                {`In 2018, I became a husband and father and decided to take a break from CFP's day-to-day operations to pursue my interests in technology. For four years, I studied to become a web developer and made it onto an engineering team twice -- but I never managed to write a single blog about my experiences or code. Because of this lack of self-reflection, I concluded that I'm not a developer.`}
-              </p>
-              <p>
-                {`Today, I'm focused on pursuing my love for technology through communication design, specifically how to optimize content and website structure to maximize search and online visibility for my career and family business. Designing SEO content that is human and machine-readable is an exciting challenge that involves business analysis, website architecture, and professional communication strategy. Putting everything together with intent and purpose has redefined my thinking of sales and marketing comms. 
-`}
-              </p>
-              <p>
-                {`My name is Byron Pantoja, and I'm a tech enthusiast, communication designer, and agile coffee drinker. Thank you for visiting my site and learning a little bit about me. `}
-              </p>
-              <p>{`I hope to get to know you as well.`}</p>
-              <p>{`Cheers,`}</p>
-              <span>dbp</span>
             </div>
           </div>
           <div className="lg:pl-20">

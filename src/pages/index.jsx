@@ -256,7 +256,9 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="Hi, I'm Byron Pantoja. I live in Davao City, where I work remotely, drink good coffee, and share my experiences and learnings with others."
+          content="Hi, I'm Byron Pantoja. I spend my days coding and sipping on coffee, and
+        I love nothing more than helping small businesses thrive with great
+        design and tech."
         />
       </Head>
       <Container className="mt-9">
@@ -265,9 +267,7 @@ export default function Home({ articles }) {
             Tech Enthusiast, Communication Designer, Agile Coffee Drinker
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            {`Hi, I'm Byron Pantoja. I live in Davao City, where I work remotely,
-            drink good coffee, and share my experiences and learnings with
-            others.`}
+            {`Hi, I'm Byron Pantoja. I live in Davao City, I write, code, and design things online.`}
           </p>
 
           <div className="mt-6 flex gap-6">
