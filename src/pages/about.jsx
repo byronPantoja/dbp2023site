@@ -69,23 +69,23 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                {`My communication skills, both verbal and written, are strong, and
-              I love to share ideas clearly and effectively to others. As a
-              critical thinker, I can analyze and evaluate information to make
-              sound decisions. My problem-solving skills are excellent, and I
-              can come up with creative solutions to complex problems. I'm a
-              humble team player and can work collaboratively to support or lead
-              others to achieve common goals. My leadership abilities are
-              strong, and I prioritize empathy and active listening to better
-              understand and connect with others, which helps me to motivate and
-              inspire them to achieve success. I'm adaptable and able to handle
-              change and uncertainty with ease. I'm organized and can manage my
-              time and tasks efficiently. Being a lifelong learner, I'm always
-              seeking to improve my knowledge and skills. As a father of two
-              babies, I understand the importance of handling stress and
-              pressure with resilience and a positive attitude. Finally, I'm a
-              dependable and responsible individual who can be counted on to
-              deliver quality work on time.`}
+                {`I've always been a versatile person, having experience in various fields throughout my life. One of my greatest strengths is my ability to think creatively when solving problems. I don't just rely on the obvious solutions, but instead, I look beyond them to find innovative and effective ways to tackle any challenge.`}
+              </p>
+
+              <p>
+                {`My communication skills have always been top-notch, which helps me articulate my ideas clearly and concisely. But I don't just work for myself; I love collaborating with others to achieve common goals. I enjoy sharing my knowledge and expertise with others while also learning from them.`}
+              </p>
+
+              <p>
+                {`I'm someone who can adapt to any environment or situation quickly. Even in fast-paced environments, I thrive, and I'm always looking for ways to improve and learn. Details matter to me, and I always make sure my work is accurate and precise.`}
+              </p>
+
+              <p>
+                {`Being organized and efficient is a big part of who I am. I can manage multiple tasks and projects simultaneously, ensuring that everything is done on time and to the best of my ability. As a self-motivated individual, I take the initiative to get things done without needing someone to tell me what to do.`}
+              </p>
+
+              <p>
+                {`My critical thinking skills help me evaluate information to make informed decisions, ensuring that I choose the best option. Lastly, I'm always looking to expand my knowledge and skill set. I believe that learning is a never-ending process, and I'm committed to being a lifelong learner.`}
               </p>
             </div>
           </div>
